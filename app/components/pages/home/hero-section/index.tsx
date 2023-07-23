@@ -10,15 +10,15 @@ const MOCK_CONTACTS = [
     icon: <TbBrandGithub />,
   },
   {
-    url: "https://linkedin.com.br/in/wsawebmaster",
+    url: "https://www.linkedin.com/in/wsawebmaster/",
     icon: <TbBrandLinkedin />,
   },
   {
-    url: "https://linkedin.com.br/in/wsawebmaster",
+    url: "https://www.youtube.com/@wsawebmaster",
     icon: <TbBrandYoutube />,
   },
   {
-    url: "https://linkedin.com.br/in/wsawebmaster",
+    url: "https://wa.me/+5511982470496",
     icon: <TbBrandWhatsapp />,
   },
 ];

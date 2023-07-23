@@ -1,4 +1,4 @@
-import { getRelativeTimeString } from "@/app/components/utils/get-relative-time"
+import { getRelativeTimeString } from "@/app/utils/get-relative-time"
 import { ReactNode } from "react"
 
 type KnownTechProps = {
